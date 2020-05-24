@@ -6,7 +6,7 @@ This in an otherwise exact copy of `Lesterpig's Work <https://github.com/Lesterp
 
 Screnshots
 ============
-.. image:: https://github.com/skoglar/mopidy-party/blob/master/mopidy-party_home.png
+.. |Homepage| image:: https://github.com/skoglar/mopidy-party/blob/master/mopidy-party_home.png
 
 Mopidy web extension designed for party! Let your guests manage the sound ;)
 
