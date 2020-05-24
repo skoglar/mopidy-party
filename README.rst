@@ -1,5 +1,5 @@
 ****************************
-Mopidy-Party
+Mopidy-Party (GUI overhaul)
 ****************************
 
 Mopidy web extension designed for party! Let your guests manage the sound ;)
