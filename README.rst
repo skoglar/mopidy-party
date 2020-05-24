@@ -2,6 +2,12 @@
 Mopidy-Party (GUI overhaul)
 ****************************
 
+This in an otherwise exact copy of `Lesterpig's Work <https://github.com/Lesterpig/mopidy-party>`_  with some frontend tweaks.
+
+Screnshots
+============
+![HomePage Screenshot](https://github.com/skoglar/mopidy-party/blob/master/mopidy-party_home.png)
+
 Mopidy web extension designed for party! Let your guests manage the sound ;)
 
 - Minimal, fast web interface designed for mobile
